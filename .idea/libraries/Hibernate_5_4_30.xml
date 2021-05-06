@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Hibernate 5.4.30">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/db_stuff/postgresql-42.2.20.jre6.jar!/" />
+      <root url="file://$USER_HOME$/db_stuff/hibernate-release-5.4.30.Final/lib/required" />
+      <root url="jar://$USER_HOME$/db_stuff/hibernate-release-5.4.30.Final/lib/jpa-metamodel-generator/hibernate-jpamodelgen-5.4.30.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/db_stuff/hibernate-release-5.4.30.Final/lib/required" recursive="false" />
+  </library>
+</component>

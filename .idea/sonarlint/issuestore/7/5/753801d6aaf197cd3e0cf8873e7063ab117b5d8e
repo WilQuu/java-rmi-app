@@ -1,0 +1,9 @@
+
+l
+java:S1104"VMake advertText a static final constant or non-public and provide accessors if needed.(è÷Í
+o
+java:S1104"YMake displayPeriod a static final constant or non-public and provide accessors if needed.(¢’ÿ“
+h
+java:S1104"RMake client a static final constant or non-public and provide accessors if needed.(ž´œ¿
+>
+java:S1948"(Make "client" transient or serializable.(ž´œ¿
